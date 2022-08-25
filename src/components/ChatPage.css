@@ -1,0 +1,19 @@
+.chatpage {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #d7dbd6;
+    z-index: 100;
+    position: relative;
+}
+
+.chatpage-container {
+    width: 100%;
+    height: 100%;
+    max-width: 1366px;
+    z-index: 100;
+    display: flex;
+}
